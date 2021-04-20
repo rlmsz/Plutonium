@@ -8,5 +8,6 @@ Projeto De Controle de estoque
 ![Test Image 4](https://github.com/rlmsz/Plutonium/blob/main/0d8bf354-9b8a-4b97-9cb1-314c76240e67.jpg?raw=true)
 ![Test Image 5](https://github.com/rlmsz/Plutonium/blob/main/58b1b97c-3df0-4122-b953-9ad85eea2463.jpg?raw=true)
 ![Test Image 6](https://github.com/rlmsz/Plutonium/blob/main/479cbae8-23a4-4af2-bad7-8371e336763f.jpg?raw=true)
-![Test Image 7](https://github.com/rlmsz/Plutonium/blob/main/7b636e73-9e2e-426d-8f88-cef2afa74479.jpg?raw=true)
-![Test Image 8](https://github.com/rlmsz/Plutonium/blob/main/7b636e73-9e2e-426d-8f88-cef2afa74479.jpg?raw=true)
+![Test Image 7](https://github.com/rlmsz/Plutonium/blob/main/57040ec4-687e-4707-b1a8-55a66e324c13.jpg?raw=true)
+![Test Image 8](https://github.com/rlmsz/Plutonium/blob/main/14c648d6-9776-425e-99e3-0a7618390147.jpg?raw=true)
+![Test Image 11](https://github.com/rlmsz/Plutonium/blob/main/8c1b7180-f4a6-419b-a23c-e1f04fe6fb07.jpg?raw=true)
