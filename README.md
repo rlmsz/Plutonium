@@ -1,4 +1,5 @@
-Projeto De Controle de estoque 
+Projeto De Controle de estoque.
+O objetivo deste projeto é: melhorar o sistema de leitura, registro de produtos e controle de estoque.
 
 ![Test Image 1](https://github.com/rlmsz/Plutonium/blob/main/7b636e73-9e2e-426d-8f88-cef2afa74479.jpg?raw=true)
 ![Test Image 2](https://github.com/rlmsz/Plutonium/blob/main/b8cf9a56-4f43-4f64-bce1-1bc291f53cad.jpg?raw=true)
