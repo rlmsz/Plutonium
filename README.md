@@ -1,6 +1,6 @@
 Projeto De Controle de estoque.
 <br>
-O objetivo deste projeto é: melhorar o sistema de leitura, registro de produtos e controle de estoque.
+O objetivo deste projeto é: registro de produtos e controle de estoque.
 <br>
 Funcionalidades:
 <br>
