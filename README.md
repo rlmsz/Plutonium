@@ -4,10 +4,6 @@ O objetivo deste projeto é: facilitar o registro de produtos e controle de esto
 <br>
 Funcionalidades:
 <br>
-Historico de entrada e saida de produtos;
-<br>
-Registro da localização de cada item;
-<br>
 Pastas para fazer a organização de itens;
 <br>
 Gráficos com quantidade de cada produto;
